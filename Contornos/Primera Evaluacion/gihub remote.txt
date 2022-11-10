@@ -1,0 +1,11 @@
+echo "linea 2" >> file.txt
+git add file.txt
+git commit -m "primewr comit"
+git branch -M main
+git remote add origin https://github.com/andvigofp/ed_prueba.git
+git push -u origin main
+
+git clone
+git emote -v
+git clone https://github.com/andvigofp/ed_prueba.git .
+

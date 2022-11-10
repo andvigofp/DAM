@@ -1,0 +1,38 @@
+long - es igual que int, pero almacenar números más grandes
+mod en java %
+Ejemplo if (intValor % i == 0)
+
+o |
+Y &&
+== igual
+!= Es disitinto
+< menor 
+<= menor o igual
+< mayor
+>= mayor o igual
+
+Ejemplo para números aleatorios	
+ numAleatorio = (int) (Math.random() * 100 + 1);
+
+Buscar que es un parametro <T> en java
+T es el tipo genérico que será reemplazado por un tipo real. 
+T es el nombre que damos al parámetro genérico. 
+Este nombre se sustituirá por el tipo real que se le pasará a la clase.
+
+Buscar boolean en java
+puede almacenar unicamente dos valores: verdadero o falso. Constantes: true: 
+representa el valor verdadero. false: representa el valor falso.
+
+this en java
+permite referirse directamente al objeto en sí, 
+en lugar de permitir que el ámbito actual defina la resolución de variables, 
+al utilizar i como parámetro formal y después this para acceder a la variable de instancia del objeto actual.
+
+
+isEmpy java buscar
+
+ ArrayLis buscar en java
+
+Entender el ejercio 9 Método vampiro
+http://jorgep.blogspot.com/2010/10/numeros-vampiros.html
+https://programmerclick.com/article/68761071733/

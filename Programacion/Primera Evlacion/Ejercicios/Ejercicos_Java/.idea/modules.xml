@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DivionMayorMenor/DivionMayorMenor.iml" filepath="$PROJECT_DIR$/DivionMayorMenor/DivionMayorMenor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicion_Programacion_Java/Ejercicio2/Ejercicio2.iml" filepath="$PROJECT_DIR$/Ejercicion_Programacion_Java/Ejercicio2/Ejercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicion_Programacion_Java/Ejercicion_Programacion_Java.iml" filepath="$PROJECT_DIR$/Ejercicion_Programacion_Java/Ejercicion_Programacion_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicion_Programacion_Java/Ejercicos_Arrays/Ejercicos_Arrays.iml" filepath="$PROJECT_DIR$/Ejercicion_Programacion_Java/Ejercicos_Arrays/Ejercicos_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicos_Java.iml" filepath="$PROJECT_DIR$/Ejercicos_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fechas/Fechas.iml" filepath="$PROJECT_DIR$/Fechas/Fechas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicion_Programacion_Java/Juegos_Uno/Juegos_Uno.iml" filepath="$PROJECT_DIR$/Ejercicion_Programacion_Java/Juegos_Uno/Juegos_Uno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicion_Programacion_Java/Mas_Ejercicios/Mas_Ejercicios.iml" filepath="$PROJECT_DIR$/Ejercicion_Programacion_Java/Mas_Ejercicios/Mas_Ejercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObtenerMayor3/ObtenerMayor3.iml" filepath="$PROJECT_DIR$/ObtenerMayor3/ObtenerMayor3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicion_Programacion_Java/Practicas_Array/Practicas_Array.iml" filepath="$PROJECT_DIR$/Ejercicion_Programacion_Java/Practicas_Array/Practicas_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicion_Programacion_Java/Practicas_Java/Practicas_Java.iml" filepath="$PROJECT_DIR$/Ejercicion_Programacion_Java/Practicas_Java/Practicas_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicion_Programacion_Java/Programacion/Programacion.iml" filepath="$PROJECT_DIR$/Ejercicion_Programacion_Java/Programacion/Programacion.iml" />
+    </modules>
+  </component>
+</project>

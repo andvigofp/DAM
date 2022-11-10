@@ -1,0 +1,13 @@
+Primero hay que instalar el programa mingw64-gcc9.1.0, para después compilar
+gcc --verion
+gcc ejemploC.c (te complila)
+gcc ejemploC.c c -o ejemplo.exe
+-------------------------------------------------
+para ejeutar el ejecutable desde el terminal
+./a.exe
+-------------------------------------------------
+Ejemplo
+void main () {
+	printf("Hola mundo");
+
+}	
